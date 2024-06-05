@@ -76,7 +76,7 @@
 &none       &none         &none         &none          &none          &none                            &none          &none          &none          &none          &none         &none
 &none       &none         &none         &none          &none          &none                            &none          &none          &none          &none          &none         &none
 &none       &none         &none         &none          &none          &none                            &none          &none          &none          &none          &none         &none
-                                        &out OUT_USB   &out OUT_BLT   &out OUT_TOG  &soft_off  &none   &none          &none          &none
+                                        &out OUT_USB   &out OUT_BLE   &out OUT_TOG  &soft_off  &none   &none          &none          &none
             >;
 
             sensor-bindings = <&inc_dec_kp C_VOL_UP C_VOL_DN>;
